@@ -1,0 +1,4 @@
+Chips, 2, Drinks, 3, Total price, 95
+Chips, 33, Drinks, null, Total price, 330
+Chips, 3, Drinks, 5, Total price, 155
+Chips, 35, Drinks, 55, Total price, 1725
